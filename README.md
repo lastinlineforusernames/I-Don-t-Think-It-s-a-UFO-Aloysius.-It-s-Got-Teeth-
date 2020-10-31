@@ -15,13 +15,13 @@ Aloysius is controlled with the left and right arrows for movement and space bar
 Mortimer follows ALoysius and wil begin jumping and moving towards Aloysius if they get too far apart.  
 A buck-toothed UFO scans back and forth across the sky and will use a tractor beam to abduct Mort if he is below it.  
 Aloysius can throw beans at the UFO by pressing enter to disrupt the tractor beam and save his brother.  
-The beams are automatically aimed at the UFO's position without leading the target,
+The beans are automatically aimed at the UFO's position without leading the target,
 so it is best to fire when the UFO is stationary. Points are awarded for hitting the UFO with beans, and 
 for reaching the home at the end of the level.
 
-There game lasts for 10 worlds, each of which are procedurally generated and get longer as the game progresses.  
+The game lasts for 10 worlds, each of which are procedurally generated and get longer as the game progresses.  
 Collisions are handled by Love2D's physics simulation and xy positions for collidables not attached to any 
 bodies in the simulation (i.e. the home, UFO, and beans).
 
-Classes were used for the main elements in the world (the UFO, ALoysius & Mortimer, and the home). Many of the
+Classes were used for the main elements in the world (the UFO, Aloysius & Mortimer, and the home). Many of the
 functions used throughout have been placed in a separate utility file to keep the code a little cleaner.
