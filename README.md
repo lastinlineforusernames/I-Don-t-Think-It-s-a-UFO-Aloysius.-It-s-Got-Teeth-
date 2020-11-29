@@ -1,4 +1,4 @@
-I Don't Think It's a UFO, Aloysius. It's Got Teeth
+I Don't Think It's a UFO, Aloysius. It's Got Teeth!
 
 Project created by Kat for CS50  
 class.lua by Matthias Richter, Animation.lua by Colton Ogden  
