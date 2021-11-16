@@ -1,6 +1,8 @@
 I Don't Think It's a UFO, Aloysius. It's Got Teeth!
 
-Project created by Kat for CS50  
+Project created by Kat for CS50
+
+A short video presentation of the game can be found here: https://youtu.be/upJTQGy6DnU
 class.lua by Matthias Richter, Animation.lua by Colton Ogden  
 pewpew code adapted from https://yal.cc/love2d-shooting-things/  
 home.png is a vector graphic included with Serif's Affinity Designer  
